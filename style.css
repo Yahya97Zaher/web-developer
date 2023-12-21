@@ -275,12 +275,31 @@ section {
     font-size: 1.2em;
 }
 
-.footer {
+.maps{
     background-color: #000016;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.container iframe{
+    margin-bottom: 80px;
+}
+
+
+
+.footer {
+    background-color: #000008;
     color: #fff;
     padding: 1em;
     display: flex;
     justify-content: space-between;
+
 }
 
 .footer-title {
