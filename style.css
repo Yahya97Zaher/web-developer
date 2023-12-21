@@ -398,7 +398,7 @@ section {
    }
 
 
-   .maps iframe{
+   .container iframe{
     width: 250;
     height: 100;
    }
@@ -416,7 +416,7 @@ section {
 
     }
 
-    .maps iframe{
+    .container iframe{
         width: 200;
         height: 100;
     }
