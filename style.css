@@ -359,6 +359,11 @@ section {
         align-items: center;
      }
 
+     .container iframe{
+        width: 200;
+        height: 100;
+       }
+
         .footer{
             padding: 1px 1px;
             padding-right: 1px;
@@ -399,8 +404,8 @@ section {
 
 
    .container iframe{
-    width: 250;
-    height: 100;
+    width: 75;
+    height: 30;
    }
 
 
@@ -417,8 +422,8 @@ section {
     }
 
     .container iframe{
-        width: 200;
-        height: 100;
+        width: 50;
+        height: 25;
     }
 }
 
