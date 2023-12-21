@@ -398,6 +398,12 @@ section {
    }
 
 
+   .maps iframe{
+    width: 250;
+    height: 100;
+   }
+
+
 
 }
 
@@ -408,6 +414,11 @@ section {
     body{
         font-size: 4px;
 
+    }
+
+    .maps iframe{
+        width: 200;
+        height: 100;
     }
 }
 
