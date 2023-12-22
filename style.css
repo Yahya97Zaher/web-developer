@@ -321,21 +321,21 @@ section {
 
 @media (max-width:1023px){
     header  {
-        padding: 10px 16px;
+        padding: 8px 14px;
     }
 
     .navigation a{
-        padding-left: 10px;
+        padding-left: 8px;
     }
      .title{
-     font-size: 1.8em;
+     font-size: 1.6em;
      }
      section{
         padding: 60px 12px;
      }
 
      .main{
-        width: 100%;
+        width: 120%;
         min-height: 110vh;
         display: flex;
         align-items: center;
@@ -346,7 +346,7 @@ section {
 
      }
      .main-content h3{
-        font-size: 1.6em;
+        font-size: 1.4em;
      }
 
      .icon{
@@ -358,8 +358,8 @@ section {
         border-radius: 42px;
         margin: 9px;
         text-align: center;
-        font-size: 24px;
-        line-height: 45px;
+        font-size: 22px;
+        line-height: 43px;
      }
 
      .content{
@@ -378,8 +378,8 @@ section {
 
 
         .footer{
-            padding: 2px 2px;
-            padding-right: 2px;
+            padding: 1px 1px;
+            padding-right: 1px;
     
 
         }
@@ -396,7 +396,7 @@ section {
 
     .main{
 
-        width: 100%;
+        width: 110%;
         min-height: 110vh;
         display: flex;
         align-items: center;
@@ -405,15 +405,15 @@ section {
 
 
     .main h2 span {
-        font-size: 2em;
+        font-size: 1em;
     }
 
     .main h2{
-        font-size: 2em;
+        font-size: 1em;
     }
 
     .main h3{
-        font-size: 1.7em;
+        font-size: 1.5em;
     }
 
   .main-content h2{
@@ -421,7 +421,7 @@ section {
 
   }
    .main-content h3{
-    font-size: 1.6em;
+    font-size: 1.4em;
    }
 
 
@@ -430,8 +430,8 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 2;
-    height: 1;
+    width: 0.5;
+    height: 0.2;
    }
 
 
@@ -449,7 +449,7 @@ section {
 
     .main{
 
-        width: 100%;
+        width: 105%;
         min-height: 110vh;
         display: flex;
         align-items: center;
@@ -459,8 +459,8 @@ section {
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 2;
-        height: 1;
+        width: 0.5;
+        height: 0.5;
     }
 }
 
