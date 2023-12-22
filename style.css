@@ -360,8 +360,8 @@ section {
      }
     
      .container{
-        width: 200;
-        height: 100;
+        width: 200px;
+        height: 100px;
      }
 
 
@@ -407,8 +407,8 @@ section {
 
    
    .container{
-    width: 100;
-    height: 50;
+    width: 70%;
+    height: 40;
    }
 
 
@@ -425,8 +425,8 @@ section {
     }
 
     .container{
-        width: 50;
-        height: 25;
+        width: 50%;
+        height: 20;
     }
 }
 
