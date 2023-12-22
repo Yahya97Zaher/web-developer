@@ -360,6 +360,7 @@ section {
      }
     
      .container iframe{
+        display: flex;
         align-items: center;
         justify-content: center;
         width: 400;
@@ -409,6 +410,7 @@ section {
 
    
    .container iframe{
+    display: flex;
     align-items: center;
     justify-content: center;
     width: 4;
@@ -429,6 +431,7 @@ section {
     }
 
     .container iframe{
+        display: flex;
         align-items: center;
         justify-content: center;
         width: 2;
