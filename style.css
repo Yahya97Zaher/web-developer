@@ -335,6 +335,11 @@ section {
         align-items: center;
     }
 
+    .icon {
+        width: 35px;
+        height: 35px;
+    }
+
     .title{
         font-size: 1.6em;
     }
@@ -355,6 +360,11 @@ section {
         align-items: center;
     }
 
+    .maps .container{
+        width: 200;
+        height: 150;
+    }
+
     .footer {
         padding: 15px 20px;
     }
@@ -363,6 +373,7 @@ section {
 @media (max-width:641px){
     body{
         font-size: 10px;
+        padding: 12px 20px;
     }
 
     .main-content h2{
@@ -372,10 +383,14 @@ section {
     .main-content h3{
         font-size: 1.4em;
     }
+    .footer{
+        padding: 15px 20px;
+    }
 }
 
 @media (max-width:300px){
 body{
-    font-size: 12px;
+    font-size: 10px;
+    padding: 10px;
 }
 }
