@@ -328,7 +328,7 @@ section {
     }
 
     .main {
-        padding: 15px 20px;
+        
         width: 120;
         min-height: 120vh;
         display: flex;
@@ -336,8 +336,8 @@ section {
     }
 
     .icon {
-        width: 45px;
-        height: 45px;
+        width: 42px;
+        height: 42px;
     }
 
     .title{
@@ -345,7 +345,8 @@ section {
     }
 
     section{
-        padding: 80px 20px;
+        padding: 100px 24px;
+        width: 100%;
     }
 
     .main-content h2{
