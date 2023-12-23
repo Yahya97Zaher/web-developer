@@ -336,8 +336,8 @@ section {
     }
 
     .icon {
-        width: 35px;
-        height: 35px;
+        width: 65px;
+        height: 65px;
     }
 
     .title{
@@ -373,8 +373,9 @@ section {
 @media (max-width:641px){
     body{
         font-size: 10px;
-        padding: 12px 20px;
+        
     }
+
 
     .main-content h2{
         font-size: 0.8em;
@@ -383,14 +384,11 @@ section {
     .main-content h3{
         font-size: 1.4em;
     }
-    .footer{
-        padding: 15px 20px;
-    }
 }
 
 @media (max-width:300px){
 body{
     font-size: 10px;
-    padding: 10px;
+    
 }
 }
