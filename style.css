@@ -320,26 +320,26 @@ section {
 
 @media ( max-width:1023px){
     header{
-        padding: 12px 20px;
+        padding: 12px 24px;
     }
 
     .navigation a{
-        padding-left: 10px;
+        padding-left: 11px;
     }
 
     .title{
-        font-size: 1.8em;
+        font-size: 1.6em;
     }
 
     section{
-        padding: 80px 20px;
+        padding: 80px 24px;
     }
 
     .main-content h2{
         font-size: 1em;
     }
     .main-content h3{
-        font-size: 1.6em;
+        font-size: 1.4em;
     }
 
     .content{
@@ -350,7 +350,7 @@ section {
 
 @media (max-width:641px){
     body{
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .main-content h2{
@@ -364,6 +364,6 @@ section {
 
 @media (max-width:300px){
 body{
-    font-size: 10px;
+    font-size: 12px;
 }
 }
