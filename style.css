@@ -339,7 +339,7 @@ section {
 
     .icon {
         width: 40px;
-        height: 40px;
+        height: 35px;
         text-align: center;
         font-size: 20px;
     }
@@ -349,8 +349,8 @@ section {
     }
 
     section{
-        padding: 100px 24px;
-        width: 100%;
+        padding: 200px 20px;
+
     }
 
     .main-content h2{
