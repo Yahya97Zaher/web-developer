@@ -360,10 +360,7 @@ section {
         align-items: center;
     }
 
-    .maps .container{
-        width: 450px;
-        height: 350px;
-    }
+
 
     .footer {
         padding: 15px 20px;
@@ -372,7 +369,7 @@ section {
 
 @media (max-width:641px){
     body{
-        font-size: 10px;
+        font-size: 12px;
         
     }
 
