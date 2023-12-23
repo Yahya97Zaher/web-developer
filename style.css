@@ -336,8 +336,8 @@ section {
     }
 
     .icon {
-        width: 65px;
-        height: 65px;
+        width: 45px;
+        height: 45px;
     }
 
     .title{
@@ -345,7 +345,7 @@ section {
     }
 
     section{
-        padding: 120px 24px;
+        padding: 150px 50px;
     }
 
     .main-content h2{
@@ -361,8 +361,8 @@ section {
     }
 
     .maps .container{
-        width: 200;
-        height: 150;
+        width: 200px;
+        height: 150px;
     }
 
     .footer {
