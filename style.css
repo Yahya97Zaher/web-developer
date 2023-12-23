@@ -336,8 +336,10 @@ section {
     }
 
     .icon {
-        width: 42px;
-        height: 42px;
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        font-size: 20px;
     }
 
     .title{
@@ -363,14 +365,12 @@ section {
 
 
 
-    .footer {
-        padding: 15px 20px;
-    }
+
 }
 
 @media (max-width:641px){
     body{
-        font-size: 12px;
+        font-size: 10px;
         
     }
 
@@ -386,7 +386,7 @@ section {
 
 @media (max-width:300px){
 body{
-    font-size: 10px;
+    font-size: 8px;
     
 }
 }
