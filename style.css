@@ -342,6 +342,7 @@ section {
         height: 32px;
         text-align: center;
         font-size: 22px;
+        line-height: 60px;
     }
     .cards{
         padding: 150px 25px;
