@@ -320,11 +320,16 @@ section {
 
 @media ( max-width:1023px){
     header{
-        padding: 12px 24px;
+        padding: 15px 20px;
     }
 
     .navigation a{
-        padding-left: 11px;
+        padding-left: 10px;
+    }
+
+    .main{
+        width: 120;
+        min-height: 120vh;
     }
 
     .title{
@@ -350,7 +355,7 @@ section {
 
 @media (max-width:641px){
     body{
-        font-size: 14px;
+        font-size: 10px;
     }
 
     .main-content h2{
