@@ -345,7 +345,7 @@ section {
     }
 
     section{
-        padding: 12px 20px;
+        padding: 100px 20px;
     }
 
     .main-content h2{
@@ -361,8 +361,8 @@ section {
     }
 
     .maps .container{
-        width: 200px;
-        height: 150px;
+        width: 50px;
+        height: 25px;
     }
 
     .footer {
